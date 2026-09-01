@@ -1,0 +1,13 @@
+# 教授提供的原始压缩包，源码已解压到 Qt_GL_Test/，无需入库
+*.zip
+
+# Qt Creator 的本地项目配置（含本机绝对路径，因人而异）
+.qtcreator/
+*.pro.user
+*.pro.user.*
+
+# 编辑器 / 系统杂项
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
